@@ -1,12 +1,11 @@
-nav {
-    background-color: black;
-}
+
 .container-fluid {
     background-color: #095557;
 }
-.btn-outline-success {
-    background-color: white;
+.carousel-inner {
+    align-items: center;
+    width: 480px;
 }
-.carousel-slide {
-    width: 100px;
+.card {
+    align-items: center;
 }
