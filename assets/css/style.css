@@ -10,3 +10,8 @@ nav {
 .carousel-slide {
     width: 100px;
 }
+#reseña {
+    width: 1000px;
+    text-align: center;
+    margin-left: 150px;
+}
