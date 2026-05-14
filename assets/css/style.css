@@ -12,3 +12,6 @@
 footer {
     background-color: #095557;
 }
+.carousel-slide {
+    width: 100px;
+}
