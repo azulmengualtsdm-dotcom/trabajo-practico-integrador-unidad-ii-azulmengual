@@ -1,3 +1,7 @@
 .container {
     background-color: #095557;
 }
+a :hover {
+    color: aliceblue;
+    text-decoration: none;
+}
