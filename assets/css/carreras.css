@@ -1,0 +1,14 @@
+.carre {
+    width: 700px;
+    margin-left: 250px;
+}
+#reseña {
+    width: 1000px;
+    text-align: center;
+    margin-left: 150px;
+}
+
+.carousel-inner {
+    width:600px;
+    margin-left: 350px;
+}
